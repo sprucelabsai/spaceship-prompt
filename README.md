@@ -54,6 +54,19 @@
 </div>
 <br>
 
+## THIS IS A FORK
+
+**For the official repo visit: [https://github.com/denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)**
+
+
+## Sprucebot Prompt
+
+<img src="https://www.dropbox.com/s/gdo5t375f9cwgo7/Screen%20Shot%202019-01-16%20at%2011.02.37%20AM.png?dl=0" />
+
+[Spruce](https://spruce.ai)
+
+## Regular Spaceship
+
 Spaceship is a minimalistic, powerful and extremely customizable [Zsh][zsh-url] prompt. It combines everything you may need for convenient work, without unnecessary complications, like a real spaceship.
 
 <p align="center">
